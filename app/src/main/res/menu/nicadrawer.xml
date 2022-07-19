@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    tools:showIn= "navigation_view">
+
+
+    <item
+        
+        android:id="@+id/notification"
+        android:title="@string/notification"
+        android:icon="@drawable/ic_baseline_notifications_24"
+        />
+    <item
+        android:id="@+id/quickpayment"
+        android:title="@string/quick_payment"
+        android:icon="@drawable/ic_baseline_payments_24"
+        />
+    <item
+        android:id="@+id/fav"
+        android:title="@string/favorite_account"
+        android:icon="@drawable/ic_baseline_supervisor_account_24"
+        />
+    <item
+        android:id="@+id/history"
+        android:title="@string/invoice_history"
+        android:icon="@drawable/ic_baseline_history_24"
+        />
+    <item
+        android:id="@+id/log"
+        android:title="@string/active_log"
+        android:icon="@drawable/ic_baseline_phone_iphone_24"
+        />
+
+    <item android:title="@string/set"
+        >
+        <menu>
+    <item
+        android:id="@+id/setting"
+        android:title="@string/settings"
+        android:icon="@drawable/ic_baseline_settings_24"
+        />
+
+        </menu>
+    </item>
+</menu>

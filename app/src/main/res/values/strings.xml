@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">NIC_ASIA_UI</string>
+    <string name="location">Location</string>
+    <string name="call">Call</string>
+    <string name="message">Message</string>
+    <string name="online_services">Online Services</string>
+    <string name="offers">Offers</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="password">Password</string>
+
+    <string name="remember_mobile_number">Remember Mobile Number</string>
+    <string name="login_now">Login Now!</string>
+    <string name="tap_to_login_with_fingerprint">Tap to login with fingerprint</string>
+    <string name="unable_to_login_tap_here">Unable to login?Tap here</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="open_account">Open Account</string>
+    <string name="load_more">Load More</string>
+    <string name="requesting">Requesting....</string>
+    <string name="super_chamatkari_shajaj_khata">Super Chamatkari Shajaj Khata</string>
+    <string name="_0056732579234593">0056732579234593</string>
+    <string name="npr_25000043053">NPR. 25000043053</string>
+    <string name="what_would_you_like_to">What would you like to?</string>
+    <string name="my_account">My Account</string>
+
+    <string name="remittance">Remittance</string>
+    <string name="cardless_withdrawl">Cardless Withdrawl</string>
+    <string name="apply_share">Apply Share</string>
+    <string name="activate_ecommerce">Activate Ecommerce</string>
+    <string name="notification">Notification</string>
+    <string name="quick_payment">Quick Payment</string>
+    <string name="favorite_account">Favorite Account</string>
+    <string name="invoice_history">Invoice History</string>
+    <string name="active_log">Active log</string>
+    <string name="set">Set</string>
+    <string name="settings">Settings</string>
+    <string name="user_name">User_Name</string>
+    <string name="good_afternoon_sijan_bhattarai">Good Afternoon! Sijan Bhattarai</string>
+    <string name="logout">Logout</string>
+    <string name="log_out">Log out</string>
+    <string name="title_activity_my_account">myAccount</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="new_super_chamatkarik_sahaj">NEW SUPER CHAMATKARIK SAHAJ</string>
+    <string name="bachat_khata">BACHAT KHATA</string>
+    <string name="sijan_bhattarai">SIJAN BHATTARAI</string>
+    <string name="_01123452343532345">01123452343532345</string>
+    <string name="available_balance">Available Balance</string>
+    <string name="npr_2421443243">NPR.2421443243</string>
+    <string name="actual_balance">Actual Balance</string>
+    <string name="npr_235535233">NPR.235535233</string>
+    <string name="accured_interest">Accured Interest</string>
+    <string name="npr_123435">NPR.123435</string>
+    <string name="interest_rate">Interest Rate</string>
+    <string name="_6_05">6.05</string>
+    <string name="payments">Payments</string>
+    <string name="customer_care">Customer Care</string>
+    <string name="bank_accounts">Bank Accounts</string>
+    <string name="school_fee_payment">School fee payment</string>
+    <string name="topup_payment">Topup Payment</string>
+    <string name="recharge_card">Recharge Card</string>
+    <string name="load_wallet">Load Wallet</string>
+    <string name="credit_card_payment">Credit Card Payment</string>
+
+    <string name="fixed_deposits">Fixed Deposits</string>
+    <string name="remittence">Remittence</string>
+    <string name="send_remit">Send Remit</string>
+    <string name="receive_remit">Receive Remit</string>
+    <string name="branches_atm_offers">BRANCHES/ATM/OFFERS</string>
+    <string name="branches">Branches</string>
+    <string name="atms">ATMs</string>
+    <string name="cancel">CANCEL</string>
+    <string name="logging_out">Logging Out</string>
+    <string name="contact_details">Contact Details</string>
+    <string name="toll_free_number">Toll Free NUmber</string>
+    <string name="ph_9852342524">Ph: 9852342524</string>
+    <string name="fixed_deposit_request">Fixed Deposit Request</string>
+    <string name="account_name">Account Name</string>
+    <string name="name">Name</string>
+    <string name="amount">Amount</string>
+    <string name="tenure">Tenure</string>
+    <string name="months">Months</string>
+    <string name="email_address">Email Address</string>
+    <string name="account_number">Account Number</string>
+    <string name="from_account">From Account</string>
+    <string name="submit">SUBMIt</string>
+    <string name="send_money">Send Money</string>
+    <string name="send_money_instantly_to_accounts_in_our_bank_or_any_other_bank">Send Money instantly to accounts in our bank or any other bank.</string>
+    <string name="using_recipient_s_mobile_number">Using recipient\'s Mobile Number</string>
+    <string name="fund_transfer">FUND TRANSFER</string>
+    <string name="using_recipient_s_account_number">Using Recipient\'s Account Number</string>
+    <string name="using_recipient_connect_ips">Using Recipient Connect Ips</string>
+    <string name="interbank_fund_transfers_may_incur_service_charges">Interbank Fund Transfers may incur service charges</string>
+
+
+    <string-array name="tenure">
+        <item>3 months</item>
+        <item>6 months</item>
+        <item>9 months</item>
+        <item>12 months</item>
+        <item>15 months</item>
+        <item>18 months</item>
+        <item>21 months</item>
+        <item>24 months</item>
+    </string-array>
+
+    <string-array name="acc_num">
+        <item>account number</item>
+        <item>054532423214125</item>
+    </string-array>
+
+</resources>

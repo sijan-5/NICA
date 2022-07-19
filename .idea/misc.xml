@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NIC_ASIA_UI/app/src/main/res/drawable/background.xml" value="0.2712820512820513" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NIC_ASIA_UI/app/src/main/res/drawable/calender.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NIC_ASIA_UI/app/src/main/res/drawable/grey.xml" value="0.2712820512820513" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NIC_ASIA_UI/app/src/main/res/drawable/ic_baseline_account_box_24.xml" value="0.2676923076923077" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NIC_ASIA_UI/app/src/main/res/drawable/ic_baseline_add_ic_call_24.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NIC_ASIA_UI/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NIC_ASIA_UI/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.2712820512820513" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NIC_ASIA_UI/app/src/main/res/drawable/ic_baseline_notifications_24.xml" value="0.2676923076923077" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NIC_ASIA_UI/app/src/main/res/drawable/kxh.xml" value="0.2712820512820513" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NIC_ASIA_UI/app/src/main/res/drawable/kxhra.xml" value="0.2712820512820513" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NIC_ASIA_UI/app/src/main/res/drawable/radius.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NIC_ASIA_UI/app/src/main/res/drawable/scanner.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NIC_ASIA_UI/app/src/main/res/layout/activity_acc.xml" value="0.259375" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NIC_ASIA_UI/app/src/main/res/layout/activity_emptyactivity.xml" value="0.259375" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NIC_ASIA_UI/app/src/main/res/layout/activity_fixdepo.xml" value="0.259375" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NIC_ASIA_UI/app/src/main/res/layout/activity_forshow.xml" value="0.259375" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NIC_ASIA_UI/app/src/main/res/layout/activity_home_page.xml" value="0.259375" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NIC_ASIA_UI/app/src/main/res/layout/activity_main.xml" value="0.259375" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NIC_ASIA_UI/app/src/main/res/layout/activity_my_account.xml" value="0.259375" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NIC_ASIA_UI/app/src/main/res/layout/activity_payment.xml" value="0.259375" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NIC_ASIA_UI/app/src/main/res/layout/activity_remittence.xml" value="0.259375" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NIC_ASIA_UI/app/src/main/res/layout/activity_send_money.xml" value="0.259375" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NIC_ASIA_UI/app/src/main/res/layout/activity_splash_screen.xml" value="0.259375" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NIC_ASIA_UI/app/src/main/res/layout/callayout.xml" value="0.259375" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NIC_ASIA_UI/app/src/main/res/layout/content_my_account.xml" value="0.259375" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NIC_ASIA_UI/app/src/main/res/layout/dialog.xml" value="0.259375" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NIC_ASIA_UI/app/src/main/res/layout/fragment_second.xml" value="0.259375" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NIC_ASIA_UI/app/src/main/res/layout/header.xml" value="0.2557291666666667" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NIC_ASIA_UI/app/src/main/res/layout/locationalertdialog.xml" value="0.259375" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NIC_ASIA_UI/app/src/main/res/layout/logoutdialog.xml" value="0.259375" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NIC_ASIA_UI/app/src/main/res/menu/menu.xml" value="0.259375" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NIC_ASIA_UI/app/src/main/res/menu/nicadrawer.xml" value="0.2557291666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
