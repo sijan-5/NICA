@@ -8,4 +8,9 @@ class Remittence : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_remittence)
     }
+
+    override fun onBackPressed() {
+        super.onBackPressed()
+        finish()
+    }
 }

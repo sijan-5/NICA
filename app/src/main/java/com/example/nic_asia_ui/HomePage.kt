@@ -93,11 +93,13 @@ class HomePage : AppCompatActivity() {
     fun openAccount(view: View) {
         startActivity(Intent(this,acc::class.java))
 
+
     }
 
     fun paymentmethod(view: View) {
 
         startActivity(Intent(this,Payment::class.java))
+
 
     }
 
@@ -105,10 +107,12 @@ class HomePage : AppCompatActivity() {
 
         startActivity(Intent(this,Remittence::class.java))
 
+
     }
 
     fun fixedDepo(view: View) {
         startActivity(Intent(this,fixdepo::class.java))
+
 
     }
 

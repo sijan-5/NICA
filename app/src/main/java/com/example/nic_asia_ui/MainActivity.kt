@@ -132,6 +132,7 @@ class MainActivity : AppCompatActivity() {
 
         dialog.dismiss()
         startActivity(Intent(this@MainActivity,HomePage::class.java))
+        finish()
         notifyUser("Authentication Success!")
     }
 
